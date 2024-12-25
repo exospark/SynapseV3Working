@@ -1,4 +1,4 @@
-# SynapseV3Working
+# SynapseV3Working 🔰
 **The remake of SynapseV3 that bypasses byforn**
 
 # 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/exospark/SynapseV3Working/releases/download/SynapseXV3/Synapse.X.zip)
